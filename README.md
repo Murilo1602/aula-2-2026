@@ -6,6 +6,7 @@ atualiazado na api awesomeapi.
 - Html
 - Style.css
 - Script.js
+- VScode
 
 # Como Executar
 - 1 Clone este repositorio
